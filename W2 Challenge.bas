@@ -121,12 +121,12 @@ worksheetname = ws.Name
             End If
         Next j
 
-MsgBox ("SHEET " + worksheetname + " Complete")
+'MsgBox ("SHEET " + worksheetname + " Complete")
 Next ws
 
-MsgBox ("Formatting Complete")
 MsgBox ("Final Analysis Complete!!")
 
 End Sub
+
 
 
