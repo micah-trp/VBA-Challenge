@@ -1,5 +1,5 @@
 
-Sub stocks__ticker analysis()
+Sub stocks__analysis()
 
 '----------------------------------------
 '---Set an initial variables
@@ -103,7 +103,7 @@ worksheetname = ws.Name
 'MsgBox ("First Summary Table Complete")
 
 '----------------------------------------
-''------Create Bonus  Summary Table column not yet completed
+''------Create Bonus  Summary Table column
 
 
 
